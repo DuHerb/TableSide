@@ -66,12 +66,6 @@ yourLocalDir: $ git clone https://github.com/FluentZap/TableSide.git
 tableSide: $ npm install
 
 
-Get your firestore key by loggin in (or creating) a new Google Firebase account, and create a new project using the Firestore database.  The api key can be copied from the project setting section.
-
-The api-key should be exported from api_keys.ts as
-
-    export const firebaseConfig {}
-
 Start a dev server from your terminal:
 
 tableside: $ ng serve
