@@ -11,7 +11,7 @@ TableSide is a proof-of-concept cloud based POS system designed for use on mobil
 - <a href='https://www.linkedin.com/in/mathew-akre29/'>Mathew Akre</a>
 
 ### View Demo
-<a href="https://tableside-dustin.firebaseapp.com"/>TableSide Demo</a>
+<a href="https://tableside-dustin.firebaseapp.com"/>TableSide Demo Hosted by Firebase</a>
 
 ### Project Specs
 
