@@ -48,7 +48,7 @@ There are three stages to each item.  'Staged'(yellow), 'Sent'(blue), and 'Expo'
     <img src='./dev-resources/tablesideStatusSingle.png' width='250px'>
     <img src='./dev-resources/tablesideStatusBatch.png' width='250px'>
 </div>
-In a production build, a server would not only be able to change a 'staged' item to 'sent'.  Sent items are sent to a kithen view under their table id, where the order would be made and expedited to the table.  When the order has been run, an item's status would be set to 'Expo' from the kitchen view.  NOTE: The current build of TableSide does not have a direct link to this view.  To explore this view, use localhost:####/kitchen in your browser.
+In a production build, a server would not only be able to change a 'staged' item to 'sent'.  Sent items are sent to a kithen view under their table id, where the order would be made and expedited to the table.  When the order has been run, an item's status would be set to 'Expo' from the kitchen view.  NOTE: The current build of TableSide does not have a direct link to this view.  To explore this view, use localhost:####/kitchen in your browser. (page currently not available on the hosted demo)
 <div>
     <img src="./dev-resources/tablesideKitchen.png">
 </div>
