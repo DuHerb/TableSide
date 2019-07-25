@@ -1,6 +1,9 @@
 {
   "name": "table-side",
   "version": "0.0.0",
+  "hosting": {
+    "public": "dist"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
